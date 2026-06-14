@@ -1,0 +1,27 @@
+{
+  "name": "paper-spine",
+  "description": "学术论文全流程辅助工具集 — 从选题摄入、文献研究、写作构建、改写润色、中英翻译、AI文本人性化、LaTeX排版到审核审计的完整论文工作流。覆盖 11 个环节：intake (选题配置) → research (文献研究) → build (框架构建) → rewrite (改写润色) → humanize (AI降重) → translate (翻译) → citation (引用管理) → latex (排版) → audit (审核) → update (版本更新) → ui (交互界面)。Use when writing academic papers, theses, journal submissions, or any scholarly writing workflow.",
+  "version": "1.0.0",
+  "author": {
+    "name": "PaperSpine"
+  },
+  "homepage": "https://github.com/19385/paper-spine",
+  "repository": "https://github.com/19385/paper-spine",
+  "license": "MIT",
+  "keywords": [
+    "paper",
+    "academic",
+    "thesis",
+    "latex",
+    "research",
+    "writing",
+    "论文",
+    "学术",
+    "翻译",
+    "citation",
+    "humanize",
+    "rewrite",
+    "audit"
+  ],
+  "skills": ["./skills"]
+}
